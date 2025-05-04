@@ -25,9 +25,9 @@ public class SuperheroRoster {
     public static void main(String[] args) {
         // 1. Declare and initialize arrays for hero names, abilities, and power levels
         String[] heroNames = {"Bat Man", "Spider Man", "Iron Man ", "Thor", "Super Man"};
-        String[] abilities = {"Web-slinging", "Flying and high-tech armor", "Stealth and combat", 
-                             "Lightning control", "Super strength and shield combat"};
-        int[] powerLevels = {85, 90, 80, 95, 88};
+        String[] abilities = {"Strong and Flying", "Web-Slinging", "Flying and high-tech armor", 
+                             "Lightning control", "Super strength and laser"};
+        int[] powerLevels = {80, 85, 90, 95, 96};
         
         // 2. Print each hero's details using a loop
         System.out.println("HERO ROSTER (ARRAY-BASED):");
